@@ -1,0 +1,6 @@
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/ili9341/ili9341_reg.c:50:9:ili9341_read_reg	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/ili9341/ili9341_reg.c:63:9:ili9341_write_reg	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/ili9341/ili9341_reg.c:75:9:ili9341_send_data	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/ili9341/ili9341_reg.c:87:9:ili9341_send_data_dma	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/ili9341/ili9341_reg.c:99:9:ili9341_recv_data	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/ili9341/ili9341_reg.c:111:9:ili9341_recv_data_dma	1

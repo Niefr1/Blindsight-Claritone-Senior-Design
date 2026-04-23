@@ -1,0 +1,8 @@
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/Src/scrl_usb.c:304:13:usb_frame_release_cb	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/Src/scrl_usb.c:240:6:SCRC_Composition_Done_Callback	6
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/Src/scrl_usb.c:452:5:SCRL_Init	19
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/Src/scrl_usb.c:484:5:SCRL_SetAddress_NoReload	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/Src/scrl_usb.c:493:5:SCRL_ReloadLayer	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/Src/scrl_usb.c:502:5:SRCL_Update	2
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/Src/scrl_usb.c:518:6:HAL_PCD_MspInit	2
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Middlewares/screenl/Src/scrl_usb.c:553:6:USB1_OTG_HS_IRQHandler	1
