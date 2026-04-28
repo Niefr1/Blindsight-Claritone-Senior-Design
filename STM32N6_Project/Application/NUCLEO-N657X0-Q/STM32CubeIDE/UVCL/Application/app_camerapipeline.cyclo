@@ -1,0 +1,8 @@
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/NUCLEO-N657X0-Q/Src/app_camerapipeline.c:118:6:CameraPipeline_Init	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/NUCLEO-N657X0-Q/Src/app_camerapipeline.c:134:6:CameraPipeline_DeInit	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/NUCLEO-N657X0-Q/Src/app_camerapipeline.c:141:6:CameraPipeline_DisplayPipe_Start	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/NUCLEO-N657X0-Q/Src/app_camerapipeline.c:148:6:CameraPipeline_NNPipe_Start	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/NUCLEO-N657X0-Q/Src/app_camerapipeline.c:156:6:CameraPipeline_DisplayPipe_Stop	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/NUCLEO-N657X0-Q/Src/app_camerapipeline.c:163:6:CameraPipeline_IspUpdate	1
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/NUCLEO-N657X0-Q/Src/app_camerapipeline.c:175:5:CMW_CAMERA_PIPE_FrameEventCallback	2
+C:/Users/Sola/stm32ai-modelzoo-services/application_code/object_detection/STM32N6/Application/NUCLEO-N657X0-Q/Src/app_camerapipeline.c:191:6:CMW_CAMERA_PIPE_ErrorCallback	1
