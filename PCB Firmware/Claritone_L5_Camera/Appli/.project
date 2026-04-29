@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Claritone_L5_Camera_Appli</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.st.stm32cube.ide.mcu.MCUProjectNature</nature>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUCubeIdeServicesRevAev2ProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUCubeProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUAdvancedStructureProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUSecureProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUAppliPythonProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUIsSecureRefProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUMultiLinkerEnabledProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUBootModeEnabledProjectNature</nature>
+		<nature>com.st.stm32cube.ide.mcu.MCUSingleCpuProjectNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>STM32N6xx_HAL_Driver</name>
+			<type>2</type>
+			<location>C:/Users/Thepr/STM32Projects/Blindsight-Claritone-Senior-Design/Firmware/Claritone_L5_Camera/Drivers/STM32N6xx_HAL_Driver</location>
+		</link>
+	</linkedResources>
+</projectDescription>
